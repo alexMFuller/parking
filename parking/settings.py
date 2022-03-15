@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'ticketLog.apps.TicketlogConfig',
+    'parking',
 ]
 
 MIDDLEWARE = [
